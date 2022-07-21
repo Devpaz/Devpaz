@@ -5,9 +5,7 @@ My name is Paolo , I'm from Peru.
 
 ## Skills
 
-* PHP
+* CSS
 * JS 
+* HTML 
 * VUEJS
-* LARAVEL
-* REACT 
-* MYSQL
